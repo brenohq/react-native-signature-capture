@@ -1,6 +1,7 @@
 {
-  "name": "react-native-signature-capture-equals",
+  "name": "@brenohq/react-native-signature-capture",
   "version": "0.4.10",
+  "private": false,
   "description": "Lets users sign their signatures",
   "main": "SignatureCapture.js",
   "scripts": {
