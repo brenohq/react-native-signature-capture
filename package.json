@@ -21,6 +21,18 @@
     "react-native": ">=0.47"
   },
   "author": "RepairShopr",
+  "contributors": [
+    {
+      "name": "Marcos L. R. Rios",
+      "email": "marcoslucsrios@gmail.com",
+      "url": "https://github.com/mrcluc"
+    },
+    {
+      "name": "Breno Henrique de Lima Freitas",
+      "email": "contato@brenohq.com",
+      "url": "https://github.com/brenohq"
+    }
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RepairShopr/react-native-signature-capture/issues"
